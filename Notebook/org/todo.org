@@ -1,4 +1,16 @@
 * Inbox
+** [ ] 设置全局的 cargo 编译 target
+** [ ] cargo install the-way
+彩蛋：用 ansible 安装？
+** [ ] 学习 bevy engine
+** [ ] 解决 man -k man 返回“没有合适结果”的问题
+man-pages 的数据库没有生成？需要重启？
+** [ ] Rust 中的 Mutex 和 RwLock 有什么区别
+** [ ] 了解 doom emacs 的 custom.el 和 config.org 如何使用
+** [ ] [#B] 给 iPad Pro 贴钢化膜
+** [ ] 解决使用 emacs-rime 后，切回 evil normal mode 再切回来，会进入英文而不是 emacs-rime 的中文的问题
+** [ ] 搞清楚阶数在 20 以内的群的结构
+** [ ] 针对 emacs 开新 window 会卡顿的问题，使用 chemacs ，安装 spacemacs，然后看是否有这问题。来确定是 doom emacs 的问题，还是 emacs 本身的问题，还是 gnome 桌面的问题
 ** [ ] actor 编程模型是什么样的
 ** [ ] 超线程 i.e. 处理器运行多于处理器核数的线程 的技术是如何实现的
 ** [ ] evil-mode 如何把光标置于屏幕中央
@@ -128,7 +140,7 @@ To learn more, run the command again with --verbose.
 ** [ ] 学习 C 语言的可变参数表功能
 ** [ ] 学习使用 iedit
 ** [ ] 使用 ansible 安装各个语言的 language server
-** [ ] [#A] 解决 emacs 在打开.rkt （racket 源文件）后，使用 scheme mode 而不是 racket-mode 的问题
+** [X] [#A] 解决 emacs 在打开.rkt （racket 源文件）后，使用 scheme mode 而不是 racket-mode 的问题
 ** [ ] [#C] 学习 google 搜到的他人的 doom emacs 配置
 ** [ ] 解决 treemacs 的图标不使用 treemacs 自己的默认图标的问题
 ** [ ] 如何使用 ctags

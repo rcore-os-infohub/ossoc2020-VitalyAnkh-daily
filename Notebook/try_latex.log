@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/Arch Linux) (preloaded format=xelatex 2020.7.6)  17 JUL 2020 16:34
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/Arch Linux) (preloaded format=xelatex 2020.7.6)  11 AUG 2020 07:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -213,19 +213,19 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
 LaTeX Font Info:    ... okay on input line 7.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
 LaTeX Font Info:    ... okay on input line 7.
- (/home/vitalyr/sdk/config/emacs/emacs.d-doom/.local/straight/build/auctex/latex/preview.sty
+ (/home/vitalyr/sdk/config/emacs/spacemacs/elpa/28.0/develop/auctex-12.2.4/latex/preview.sty
 Package: preview 2017/04/24 12.2 (AUCTeX/preview-latex)
  (/usr/share/texmf-dist/tex/generic/luatex85/luatex85.sty
 Package: luatex85 2016/06/15 v1.4 pdftex aliases for luatex
-) (/home/vitalyr/sdk/config/emacs/emacs.d-doom/.local/straight/build/auctex/latex/prtightpage.def
+) (/home/vitalyr/sdk/config/emacs/spacemacs/elpa/28.0/develop/auctex-12.2.4/latex/prtightpage.def
 \PreviewBorder=\dimen170
-) (/home/vitalyr/sdk/config/emacs/emacs.d-doom/.local/straight/build/auctex/latex/prauctex.def
+) (/home/vitalyr/sdk/config/emacs/spacemacs/elpa/28.0/develop/auctex-12.2.4/latex/prauctex.def
 No auxiliary output files.
 
 
 \hbadness=\count271
 \hfuzz=\dimen171
-(/home/vitalyr/sdk/config/emacs/emacs.d-doom/.local/straight/build/auctex/latex/prauctex.cfg)) (/home/vitalyr/sdk/config/emacs/emacs.d-doom/.local/straight/build/auctex/latex/prfootnotes.def)
+(/home/vitalyr/sdk/config/emacs/spacemacs/elpa/28.0/develop/auctex-12.2.4/latex/prauctex.cfg)) (/home/vitalyr/sdk/config/emacs/spacemacs/elpa/28.0/develop/auctex-12.2.4/latex/prfootnotes.def)
 \pr@snippet=\count272
 \pr@box=\box48
 \pr@output=\toks15

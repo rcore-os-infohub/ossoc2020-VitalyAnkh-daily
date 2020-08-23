@@ -19,3 +19,6 @@
 [submodule "OS/zCore-Tutorial-VitalyR"]
 	path = OS/zCore-Tutorial-VitalyR
 	url = git@github.com:VitalyAnkh/zCore-Tutorial.git
+[submodule "OS/ostep-code"]
+	path = OS/ostep-code
+	url = git@github.com:remzi-arpacidusseau/ostep-code.git

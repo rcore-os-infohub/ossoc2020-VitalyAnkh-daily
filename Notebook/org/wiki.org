@@ -54,11 +54,16 @@ C++ 程序员经常把“对 const 的引用”简称为“常量引用”，这
 java 程序中的 public static void main(String[] args) 中，main 不是 keyword ，只是一个 name/identifier 。
 ** Rust
 *** [[file:20200726035220-rust_eval_工具_evcxr.org][Rust EVAL 工具 evcxr]]
+*** [[file:20200820090308-cargo_设置全局_target_目录.org][cargo 设置全局 target 目录]]
+:PROPERTIES:
+:ID:       f859f83d-d6e8-4a86-a0f4-e11171236dc2
+:END:
+*** [[file:20200822160426-vulkano.org][vulkano]]
+:PROPERTIES:
+:ID:       4956be45-337a-4804-a8f0-5f80ed959204
+:END:
 ** Android
 *** [[file:20200809215624-好用的android_app.org][好用的Android app]]
-:PROPERTIES:
-:ID:       15427620-c596-44d6-80ff-34a320814b42
-:END:
 
 ** Linux Tips
 
@@ -102,3 +107,15 @@ a^{2}+b^{2}=c^{2}
 *** [[file:rcore_journal.org][rCore Journal]]
 *** [[file:journal.org][journal]]
 *** [[file:20200804025006-zcore_journal.org][zCore Journal]]
+* [[file:20200811022419-学习方法.org][学习方法]]
+:PROPERTIES:
+:ID:       c4b00683-926b-422f-af68-c3b4baed99d3
+:END:
+* [[file:20200821185230-我喜欢的音乐.org][我喜欢的音乐]]
+:PROPERTIES:
+:ID:       49b69249-117e-41b1-8a23-6d380e25fa65
+:END:
+* [[file:20200823064803-量子计算.org][量子计算]]
+:PROPERTIES:
+:ID:       d51454af-298b-4662-bd33-4cceb0306e13
+:END:

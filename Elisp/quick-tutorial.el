@@ -14,7 +14,7 @@ Hello!
 (defun hello () (insert "Hello, I'm VitalyR"))
 
 (defun hello (name) (insert "Hello " name))
-(hello "you")Hello you
+(hello "you")
 (swith-to-buffer-other-window "*test*")
 
 (progn 
